@@ -19,7 +19,7 @@
 
 <div align="center">
 
-![Demo photo](images/parking_sensor_demo.jpg)
+![Demo photo](images/parking_sensor_demo.jpeg)
 
 <!-- DRAG YOUR parking_sensor_demo.mp4 INTO THIS SPOT IN THE GITHUB README EDITOR -->
 <!-- GitHub will auto-generate a video embed link here once uploaded -->
