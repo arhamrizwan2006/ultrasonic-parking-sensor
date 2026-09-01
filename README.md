@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ultrasonic%20Parking%20Sensor&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Real-Time%20Distance%20Alarm%20with%20LCD%2C%20LEDs%20%26%20Dual%20Buzzers&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=220&amp;section=header&amp;text=Ultrasonic%20Parking%20Sensor&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Real-Time%20Distance%20Alarm%20with%20LCD%2C%20LEDs%20%26%20Dual%20Buzzers&amp;descAlignY=58&amp;descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=HC-SR04+Distance+Sensing;3-Tier+LED+Range+Indicator;Escalating+Dual-Buzzer+Alarm" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=2C5364&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=HC-SR04+Distance+Sensing;3-Tier+LED+Range+Indicator;Escalating+Dual-Buzzer+Alarm" alt="Typing SVG" />
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=3&amp;section=header" width="100%"/>
 
 ## 🎬 Demo
 
@@ -26,7 +26,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=3&amp;section=header" width="100%"/>
 
 ## ✨ Overview
 
@@ -41,7 +41,7 @@ A car park-assist style distance alarm — an HC-SR04 ultrasonic sensor measures
 | 🔊🔊 **Escalating Alarm** | Silent → single slow beep → dual fast alarm as distance shrinks |
 | ⚙️ **Zero Extra Sensors** | Pure `pulseIn()` ultrasonic timing, no external distance libraries |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=3&amp;section=header" width="100%"/>
 
 ## 🧰 Hardware Used
 
@@ -56,7 +56,7 @@ A car park-assist style distance alarm — an HC-SR04 ultrasonic sensor measures
 | Breadboard | 1 |
 | Jumper wires | ~30 |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=3&amp;section=header" width="100%"/>
 
 ## 🔌 Wiring
 
@@ -91,7 +91,7 @@ Full pin-by-pin breakdown in [`docs/wiring_connections.md`](docs/wiring_connecti
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=3&amp;section=header" width="100%"/>
 
 ## ⚙️ How It Works
 
@@ -109,7 +109,7 @@ The HC-SR04 sends an ultrasonic pulse and measures how long it takes to bounce b
 
 The LCD continuously shows the live distance on the top line and the current status (SAFE / CAUTION / DANGER) on the bottom line.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=3&amp;section=header" width="100%"/>
 
 ## 🛠️ Setup
 
@@ -121,13 +121,13 @@ The LCD continuously shows the live distance on the top line and the current sta
 | 4 | Select **Arduino Uno** as the board and the correct COM port |
 | 5 | Upload, open Serial Monitor at 9600 baud, and test by moving an object toward the sensor |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=3&amp;section=header" width="100%"/>
 
 ## 🐛 Troubleshooting
 
 See [`docs/troubleshooting.md`](docs/troubleshooting.md) — includes the ground-pin fix for LEDs that wouldn't light up.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C5364,50:203A43,100:0F2027&amp;height=150&amp;section=footer"/>
 
 <div align="center">
 
