@@ -127,7 +127,7 @@ The LCD continuously shows the live distance on the top line and the current sta
 
 See [`docs/troubleshooting.md`](docs/troubleshooting.md) — includes the ground-pin fix for LEDs that wouldn't light up.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C5364,50:203A43,100:0F2027&amp;height=200&amp;section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2C5364,50:203A43,100:0F2027&amp;height=200&amp;section=footer" width="100%"/>
 
 <div align="center">
 
