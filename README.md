@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=220&amp;section=header&amp;text=Ultrasonic%20Parking%20Sensor&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Real-Time%20Distance%20Alarm%20with%20LCD%2C%20LEDs%20%26%20Dual%20Buzzers&amp;descAlignY=58&amp;descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=220&amp;section=header&amp;text=Ultrasonic%20Parking%20Sensor&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Real-Time%20Distance%20Alarm%20with%20LCD%2C%20LEDs%20and%20Dual%20Buzzers&amp;descAlignY=58&amp;descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=2C5364&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=HC-SR04+Distance+Sensing;3-Tier+LED+Range+Indicator;Escalating+Dual-Buzzer+Alarm" alt="Typing SVG" />
 
